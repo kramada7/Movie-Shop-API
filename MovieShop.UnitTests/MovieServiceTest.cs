@@ -28,5 +28,11 @@ namespace MovieShop.UnitTests
         {
             Assert.AreEqual(1, 1);
         }
+
+        [TestMethod]
+        public void TestMoviesFromFakeData5()
+        {
+            Assert.AreEqual(1, 1);
+        }
     }
 }
