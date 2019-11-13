@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\MovieShop.Services.csproj": {}
+    "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\MovieShop.Services.csproj": {}
   },
   "projects": {
-    "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj": {
+    "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\MovieShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj",
+        "projectUniqueName": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\MovieShop.Data.csproj",
         "projectName": "MovieShop.Data",
-        "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj",
+        "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\MovieShop.Data.csproj",
         "packagesPath": "C:\\Users\\kera_\\.nuget\\packages\\",
-        "outputPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\obj\\",
+        "outputPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
-                "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj"
+              "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+                "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+    "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj",
+        "projectUniqueName": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj",
         "projectName": "MovieShop.Entities",
-        "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj",
+        "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj",
         "packagesPath": "C:\\Users\\kera_\\.nuget\\packages\\",
-        "outputPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\obj\\",
+        "outputPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -132,14 +132,14 @@
         }
       }
     },
-    "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\MovieShop.Services.csproj": {
+    "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\MovieShop.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\MovieShop.Services.csproj",
+        "projectUniqueName": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\MovieShop.Services.csproj",
         "projectName": "MovieShop.Services",
-        "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\MovieShop.Services.csproj",
+        "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\MovieShop.Services.csproj",
         "packagesPath": "C:\\Users\\kera_\\.nuget\\packages\\",
-        "outputPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\obj\\",
+        "outputPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -158,11 +158,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj": {
-                "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj"
+              "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\MovieShop.Data.csproj": {
+                "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\MovieShop.Data.csproj"
               },
-              "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
-                "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj"
+              "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+                "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj"
               }
             }
           }

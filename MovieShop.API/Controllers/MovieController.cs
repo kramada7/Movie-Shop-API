@@ -19,7 +19,7 @@ namespace MovieShop.API.Controllers
         }
 
         [HttpGet]
-        [Route("topgrossing")]
+        [Route("topgrossing2")]
         public async Task<IActionResult> GetTopGrossingMovies()
         {
             var movies = await _movieService.GetHighestGrossingMovies();

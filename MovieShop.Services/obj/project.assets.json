@@ -6762,11 +6762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\MovieShop.Services.csproj",
+      "projectUniqueName": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\MovieShop.Services.csproj",
       "projectName": "MovieShop.Services",
-      "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\MovieShop.Services.csproj",
+      "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\MovieShop.Services.csproj",
       "packagesPath": "C:\\Users\\kera_\\.nuget\\packages\\",
-      "outputPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\obj\\",
+      "outputPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6785,11 +6785,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj": {
-              "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj"
+            "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\MovieShop.Data.csproj": {
+              "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\MovieShop.Data.csproj"
             },
-            "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
-              "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj"
+            "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+              "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj"
             }
           }
         }

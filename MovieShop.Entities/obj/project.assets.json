@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj",
+      "projectUniqueName": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj",
       "projectName": "MovieShop.Entities",
-      "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj",
+      "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj",
       "packagesPath": "C:\\Users\\kera_\\.nuget\\packages\\",
-      "outputPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\obj\\",
+      "outputPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

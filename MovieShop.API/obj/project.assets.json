@@ -8501,11 +8501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.API\\MovieShop.API.csproj",
+      "projectUniqueName": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.API\\MovieShop.API.csproj",
       "projectName": "MovieShop.API",
-      "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.API\\MovieShop.API.csproj",
+      "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.API\\MovieShop.API.csproj",
       "packagesPath": "C:\\Users\\kera_\\.nuget\\packages\\",
-      "outputPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.API\\obj\\",
+      "outputPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8524,14 +8524,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj": {
-              "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj"
+            "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\MovieShop.Data.csproj": {
+              "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Data\\MovieShop.Data.csproj"
             },
-            "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
-              "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj"
+            "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+              "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Entities\\MovieShop.Entities.csproj"
             },
-            "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\MovieShop.Services.csproj": {
-              "projectPath": "D:\\Kevin\\USA\\UW\\Job Application\\Antra\\Web API\\MovieShop.API\\MovieShop.Services\\MovieShop.Services.csproj"
+            "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\MovieShop.Services.csproj": {
+              "projectPath": "D:\\Kevin\\USA\\Movie-Shop-API\\MovieShop.Services\\MovieShop.Services.csproj"
             }
           }
         }
