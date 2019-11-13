@@ -11,3 +11,16 @@ D:\Kevin\USA\UW\Job Application\Antra\Web API\MovieShop.API\MovieShop.Services\o
 D:\Kevin\USA\UW\Job Application\Antra\Web API\MovieShop.API\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.csproj.CopyComplete
 D:\Kevin\USA\UW\Job Application\Antra\Web API\MovieShop.API\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.dll
 D:\Kevin\USA\UW\Job Application\Antra\Web API\MovieShop.API\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.pdb
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Services.deps.json
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Services.dll
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Services.pdb
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Data.dll
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Entities.dll
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Data.pdb
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Entities.pdb
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.csprojAssemblyReference.cache
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.AssemblyInfoInputs.cache
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.AssemblyInfo.cs
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.csproj.CopyComplete
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.dll
+D:\Kevin\USA\Movie-Shop-API\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.pdb
