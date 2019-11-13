@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
+using MovieShop.Data;
+using MovieShop.Entities;
+
+
+namespace MovieShop.Services
+{
+    public interface IGenreService
+    {
+        Task<IEnumerable<Genre>> GetAllGenres();
+        Task<IEnumerable<Movie>> GetMoviesByGenre(int genreId);
+
+    }
+}
